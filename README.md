@@ -11,7 +11,7 @@ Proyecto en el que se usan manejo de procesos segun lo visto en el segundo parci
 ## INTRUCCIONES ##
 <ol>
     <li>
-       * Para compilar: <br />
+       Para compilar: <br />
        <code> $> gcc -g -o sincronizacionAF.o proyecto.c -lpthread -Wall </code>
     </li>
     <li>
